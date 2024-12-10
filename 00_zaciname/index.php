@@ -11,7 +11,7 @@
 <h1>git config --global user.email "tvoj@email.hu"</h1>
     <?php
 
-
+baška
 
 
     ?> <h1>jano</h1>
