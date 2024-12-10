@@ -9,9 +9,10 @@
 
 <h1>git config --global user.name "tvojemeno"</h1>
 <h1>git config --global user.email "tvoj@email.hu"</h1>
+<p>baška</p>
     <?php
 
-baška
+
 
 
     ?> <h1>jano</h1>
